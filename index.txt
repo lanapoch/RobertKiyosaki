@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warren Buffet Tribute</title>
+    <link rel="stylesheet" href="style.css"></head><body>k
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  
+  
+     
+ 
+    <h1> Warren Buffet</h1>
+    <div class="quotes"> <q> If you don't find a way <br> to make money while 
+        you sleep, <br> You will work until you die.</q></div>
+    <p> Warren Buffett, in full Warren
+         Edward Buffett, <br>(born August 30, 
+         1930, Omaha, Nebraska, U.S.), <br> American 
+         businessman and philanthropist, <br>  widely considered
+          the most successful <br> investor of the 20th and early 21st 
+          centuries, <br>  having defied prevailing investment trends <br>  to amass 
+        a personal fortune of <br>
+        more than $100 billion. (<a href="https://en.wikipedia.org/wiki/Warren_Buffett" target="_blank">full bio</a>) </p>
+        <br>
+       <span> </span>
+       <br>
+       <h2>Fun Facts:</h2>
+       <ul>
+        <li>One of the world's richest man got rejected from Harvard Business School</li>
+        <li>Mr Buffet never misses his breakfast from McDonald's  </li>
+        <li>Lives in same House Since 1958 which he originally purvhased for $31,500</li>
+        <li>Worked in The Same Office building for five decades</li>
+        <li>He used a humble Nokia flip phone long after smartphones were launched</li>
+    </ul>
+    <br>
+    <h2 class="int">Resources in internet:</h2>
+   <a href="https://www.instagram.com/officialwarrenbuffett/?hl=en" target="_blank"> <svg class="insta" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8A1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5a5 5 0 0 1-5 5a5 5 0 0 1-5-5a5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3a3 3 0 0 0 3 3a3 3 0 0 0 3-3a3 3 0 0 0-3-3Z"></path></svg> </a>
+   <a href="https://twitter.com/warrenbuffett?lang=en" target="_blank"> <svg class="twitter" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="-2 -2 24 24"><g fill="currentColor"><path d="M10 18a8 8 0 1 0 0-16a8 8 0 0 0 0 16zm0 2C4.477 20 0 15.523 0 10S4.477 0 10 0s10 4.477 10 10s-4.477 10-10 10z"></path><path d="M15 6.947c-.368.16-.763.27-1.178.318c.424-.25.748-.646.902-1.117a4.16 4.16 0 0 1-1.304.49A2.06 2.06 0 0 0 11.923 6c-1.133 0-2.051.905-2.051 2.02c0 .158.018.312.053.46a5.854 5.854 0 0 1-4.228-2.11a1.982 1.982 0 0 0-.278 1.015c0 .7.363 1.32.913 1.681a2.076 2.076 0 0 1-.93-.253v.025a2.03 2.03 0 0 0 1.646 1.98a2.108 2.108 0 0 1-.927.034a2.049 2.049 0 0 0 1.916 1.403a4.156 4.156 0 0 1-2.548.864c-.165 0-.328-.01-.489-.028A5.863 5.863 0 0 0 8.144 14c3.774 0 5.837-3.078 5.837-5.748l-.007-.262A4.063 4.063 0 0 0 15 6.947z"></path></g></svg></a>
+    <a href="https://en.wikipedia.org/wiki/Warren_Buffett" target="_blank"> <svg class="wiki" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 32 32"><path fill="currentColor" d="M30 9.215a.308.308 0 0 1-.313.308h-1.68l-7.616 16.215a.308.308 0 0 1-.278.18h-.004a.314.314 0 0 1-.28-.172l-3.614-7.168l-3.902 7.18a.313.313 0 0 1-.555-.016L4.055 9.523H2.313A.31.31 0 0 1 2 9.215V8.39a.31.31 0 0 1 .313-.309h6.21a.31.31 0 0 1 .313.309v.824a.31.31 0 0 1-.313.308H7.188l5.316 12.262l2.766-5.168l-3.508-7.09h-.844a.313.313 0 0 1-.313-.312v-.82c0-.172.141-.313.313-.313h4.598a.31.31 0 0 1 .308.313v.82a.307.307 0 0 1-.308.308h-.813l2.02 4.415l2.402-4.415h-1.473a.308.308 0 0 1-.312-.308v-.82a.31.31 0 0 1 .312-.313h4.465a.31.31 0 0 1 .309.313v.82a.307.307 0 0 1-.309.308h-.98l-3.504 6.372l2.855 5.875L26 9.523h-1.746a.31.31 0 0 1-.313-.308v-.82c0-.172.141-.313.313-.313h5.433a.31.31 0 0 1 .313.313z"></path></svg></a>
+   
+
+</body>
+<html>
